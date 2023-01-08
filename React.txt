@@ -1,0 +1,5 @@
+Why is React known as React?
+React was developed for application that have constantly changing data.
+Since the react is frontend framework or view in MVC, this means 
+as the user clicks around and changes the data the view should react/change
+with those user events.

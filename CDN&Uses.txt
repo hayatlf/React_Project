@@ -1,0 +1,22 @@
+What is CDN?
+A content delivery network refers to a geographically distributed group of servers
+which work together to provide fast delivery of internet content.
+
+A CDN allows for the quick transfer of assest needed for loadidng internet content
+including HTML Files,js Files ,Stylesheet,image and video.
+The popularity of CDN services continues to grow, and today the majority of web traffic
+is served through CDNs, including traffic from major sites like Facebook, Netflix, and Amazon.
+
+A properly configured CDN may also help protect websites against some common malicious attacks,
+such as Distributed Denial of Service (DDOS) attacks.
+
+Uses
+Improve page load speed.
+Handle high traffic loads.
+Block spammers, scrapers and other bad bots.
+Localize coverage without the cost.
+Reduce bandwidth consumption.
+Load balance between multiple servers.
+Protect your website from DDoS attacks.
+Secure your application.
+

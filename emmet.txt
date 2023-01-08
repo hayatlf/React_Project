@@ -1,0 +1,6 @@
+What is emmet?
+Emmet is free add-on for you text editor.it allows 
+you to type shortcut that are dynamically converted into 
+full pieces of code.By using emmet developers write
+less.It saves time and keystrokes.
+Emmet is mostly used for HTML,CSS,XML.

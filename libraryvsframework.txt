@@ -1,0 +1,20 @@
+Difference between library and framework?
+Framework and libraries are code written by third party
+to solve/common problem or to optimise performance.
+A key Difference between library and framework is inversion of
+control.When using library the control remains to the developer
+who tells the application when to call the library function.
+But in framework, the control is inverted i.e. the framework calls us. 
+It defines a skeleton where the application defines its own features to fill out the skeleton.
+
+ 
+             Framework                                        Library
+1)It comprises lot of APIs,compilers,support           1)It is collection of helper modules,classes,
+ program,libraries etc.                                     functions,pre-written code etc.
+2)It is difficult to replace to framework.             2)It is easier to replace to library.
+3)A framework developement required lots of            3)Building Library requires less code,so there is  
+code that decereases perfomance and increases            better performance and fast load time.
+the load time.
+4)Including framework in existing code is              4)Libraries can be integrated easily to existing project
+impossible.                                                to add some specific functionalities.
+Ex: Angularjs                                           Ex: Reactjs
